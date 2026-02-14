@@ -35,8 +35,8 @@ Streamlit AI chatbot that can query SQL data warehouses in Databricks
 - Custom LLM chatbot and data warehouse hosted in Databricks
 - Implemented AI function calling for up to 50% reduction in operational costs
 
-#### 📈 [https://public.tableau.com/app/profile/joachim.geza.bankovics/viz/InflationorCentralBankRatesWhichInfluencesHungarianTreasuriesMore/TreasuriesDashboard](https://public.tableau.com/app/profile/joachim.geza.bankovics/viz/InflationorCentralBankRatesWhichInfluencesHungarianTreasuriesMore/TreasuriesDashboard)
-Tableau Dashboard: Inflation or Central Bank Rates Which Influences Hungarian Treasuries More
+#### 📈 [Tableau Dashboard: Inflation or Central Bank Rates Which Influences Hungarian Treasuries More](https://public.tableau.com/app/profile/joachim.geza.bankovics/viz/InflationorCentralBankRatesWhichInfluencesHungarianTreasuriesMore/TreasuriesDashboard)
+Financial data analysis about Hungarian treasury bond auctions
 - Visualizing 20+ years of Hungarian treasury auction data
 - Using data blending for macro datasets: inflation rates, central bank rates and treasury data
 
