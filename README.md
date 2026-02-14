@@ -25,7 +25,7 @@ I'm a data analytics engineer passionate about building scalable data pipelines 
 **Data Warehouses & Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Redshift](https://img.shields.io/badge/-Redshift-8C4FFF?style=flat&logo=amazon-redshift&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style=for-the-badge&logo=databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FC4C02?style= flat&logo=databricks&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ### 📊 Featured Projects
