@@ -40,6 +40,13 @@ Financial data analysis about Hungarian treasury bond auctions
 - Visualizing 20+ years of Hungarian treasury auction data
 - Using data blending for macro datasets: inflation rates, central bank rates and treasury data
 
+#### 🗄️ [PostgreSQL ETL Data Warehouse](https://github.com/joagezban/postgresql-sales-data-warehouse)
+Designed and implemented a scalable, end-to-end ELT/ETL pipeline that ingests raw CSV data, processes it through structured layers, and loads it into a PostgreSQL data warehouse optimized for analytical queries.
+
+- Architecture: Implemented a staging and production layer data architecture utilizing star schema modeling with optimized fact and dimension tables
+- Tech Stack: PostgreSQL, SQL functions, Python for raw training data generation
+- Key Features: Automated data merging, robust logging
+
 ### 📫 Let's Connect
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/joachim-geza-bankovics-3404b8184/)
 
